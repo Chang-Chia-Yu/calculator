@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\bin\Debug\WindowsFormsApplication_count.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\bin\Debug\WindowsFormsApplication_count.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\bin\Debug\WindowsFormsApplication_count.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.exe
+c:\users\asus\documents\visual studio 2015\Projects\WindowsFormsApplication_count\WindowsFormsApplication_count\obj\Debug\WindowsFormsApplication_count.pdb
